@@ -2,7 +2,7 @@
 
 Introducción a la ciencia de datos usando Python en Jupyter Notebook.
 
-Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nanytahm/Ciencia-de-Datos/development)
+Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nanytahm/Ciencia-de-Datos/HEAD)
 
 ## Tabla de Contenido
 
