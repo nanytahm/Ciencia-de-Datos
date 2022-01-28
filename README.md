@@ -1,7 +1,9 @@
 # Introducción a la ciencia de datos con Python
 
-introducción a la ciencia de datos basado en el curso ofrecido en youtube por el grupo  DATA de alumnos del ICMC-USP 
-Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nanytahm/Ciencia-de-Datos/development)
+Introducción a la ciencia de datos usando Python en Jupyter Notebook.
+
+Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nanytahm/Ciencia-de-Datos/HEAD)
+
 ## Tabla de Contenido
 
 <table>
