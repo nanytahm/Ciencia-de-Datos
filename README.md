@@ -17,7 +17,7 @@ Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://youtu.be/pjT_0nPiSqQ" target="_blank" rel="noopener noreferrer">Introducción</a></td>
+    <td><a>Introducción</a></td>
     <td>Introducción al curso y fundamentos teóricos de la ciencia de datos</td>
     <td><a href="https://github.com/icmc-data/Intro-Data-Science-Youtube/blob/master/slides/intro_data_science.pdf" target="_blank" rel="noopener noreferrer">slides</a></td>
     <td></td>
