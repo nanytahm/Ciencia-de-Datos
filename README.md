@@ -1,4 +1,4 @@
-# Introducción a la ciencia de datos con Python
+# Introducción a DATA SCIENCE con Python
 
 Introducción a la ciencia de datos usando Python en Jupyter Notebook.
 
@@ -17,7 +17,7 @@ Ingresa al jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 </thead>
 <tbody>
   <tr>
-    <td><a>Introducción</a></td>
+    <td><a  href="https://github.com/nanytahm/Ciencia-de-Datos/blob/main/intro.ipynb" target="_blank" rel="noopener noreferrer">Introducción</a></td>
     <td>Introducción al curso y fundamentos teóricos de la ciencia de datos</td>
     <td><a href="https://github.com/icmc-data/Intro-Data-Science-Youtube/blob/master/slides/intro_data_science.pdf" target="_blank" rel="noopener noreferrer">slides</a></td>
     <td></td>
